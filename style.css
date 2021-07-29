@@ -1,0 +1,79 @@
+/* google font link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+   
+    background-color: #264653;
+    
+}
+.purchase-button{
+    background-color: #E76F51;
+    color: white;
+    font-size: 16px;
+    font-weight: 500px;
+    padding: 10px 46px;
+}
+.purchase-button:hover{
+    background-color: white;
+    color: #E76F51;
+    font-size: 16px;
+    font-weight: 500px;
+    padding: 10px 46px;
+}
+.gray-scale-img{
+    filter: grayscale(100%)
+}
+
+.collection {
+    color: #E76F51;
+    font-size: 14px;
+    font-weight: 600;
+}
+.readmore-button-1{
+    
+        background-color: #E76F51;
+        color: white;
+        font-size: 18px;
+        font-weight: 500px;
+        padding: 15px;
+    }
+    .readmore-button-2{
+        border: 1px solid  #E76F51 ;
+        color:  #E76F51;
+        font-size: 18px;
+        font-weight: 500px;
+        padding: 15px;
+
+    }
+    .readmore-button-2:hover{
+        background-color: #E76F51;
+        color: white;
+        font-size: 18px;
+        font-weight: 500px;
+        padding: 15px;
+
+    }
+    
+    .fillup-icon{
+        color: #E77C40;
+        
+    }
+.empty-icon{
+   
+    color:  #E77C40;
+}
+.offcanves li{
+list-style: none;
+margin-bottom: 10px;
+
+}
+
+.banner-text{
+    color: #E0E0E0
+    ;
+}
